@@ -1,4 +1,4 @@
-scriptId = 'com.thalmic.scripts.gmail'
+scriptId = 'com.thalmic.scripts.passes'
 
 function enterpass()
     myo.keyboard("u", "press", "control", "shift")
